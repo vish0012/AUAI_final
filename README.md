@@ -1,2 +1,3 @@
-# AUAISummer2018
-2018 Asia University A. I. Summer Program
+# 2018 AU AI Summer program 
+2018 A. I. Summer Program @ Asia University
+
